@@ -1,0 +1,11 @@
+{
+  "editor.renderLineHighlight": "gutter",
+  "editor.rulers": [
+      80,
+      120
+  ],
+  "editor.formatOnSave": false,
+  "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": false
+  }
+}
